@@ -1,0 +1,6 @@
+{
+  "name": "caelum-web-studio-app",
+  "description": "An independent web development studio crafting blazing-fast, custom websites and digital destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
